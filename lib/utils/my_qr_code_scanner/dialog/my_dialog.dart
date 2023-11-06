@@ -17,7 +17,7 @@ class MyDialog{
               height: dialogArea,
               width: dialogArea,
               child: Column(
-                mainAxisAlignment: MainAxisAlignment.center,
+                mainAxisAlignment: MainAxisAlignment.spaceAround,
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   Text(result!),
